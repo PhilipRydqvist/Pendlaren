@@ -1,0 +1,24 @@
+{
+  "name": "pendlaren",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilipRydqvist/Pendlaren.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilipRydqvist/Pendlaren/issues"
+  },
+  "homepage": "https://github.com/PhilipRydqvist/Pendlaren#readme",
+  "dependencies": {
+    "https-localhost": "^4.7.1"
+  }
+}
